@@ -1,5 +1,5 @@
 # esx_trucker 
-Ported version from https://www.gta5-mods.com/scripts/trucking-job-lua to FiveReborn https://github.com/schneehaze/Fivem_TruckerJob to 
+Ported version from https://www.gta5-mods.com/scripts/trucking-job-lua to FiveReborn https://github.com/schneehaze/Fivem_TruckerJob to https://github.com/jaylogi/esx_trucker
 
 ######### THIS IS NOT A FINAL RELEASE #########
 
