@@ -367,7 +367,7 @@ function GUI.init()
     GUI.addButton(1, "Mission 4 [ 600$ ]", GUI.mission, 0.35, 0.40, 0.3, 0.05)
     GUI.addButton(1, "Mission 5 [ 700$ ]", GUI.mission, 0.35, 0.45, 0.3, 0.05)
     GUI.addButton(1, "Mission 6 [ 400$ ]", GUI.mission, 0.35, 0.50, 0.3, 0.05)
-	GUI.addButton(1, "Mission 7 [ 600$ ]", GUI.mission, 0.35, 0.55, 0.3, 0.05)
+	   GUI.addButton(1, "Mission 7 [ 600$ ]", GUI.mission, 0.35, 0.55, 0.3, 0.05)
     GUI.addButton(1, "Mission 8 [ 800$ ]", GUI.mission, 0.35, 0.60, 0.3, 0.05)
     GUI.addButton(1, "Exit Menu", GUI.exit, 0.35, 0.65, 0.3, 0.05)
 end
