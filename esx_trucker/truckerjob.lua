@@ -41,7 +41,7 @@ local TruckingTrailer = {}
 TruckingTrailer[0] = {["x"] = 870.54, ["y"] = -934.07, ["z"] = 26.28}
 
 local Truck = {"HAULER", "PACKER", "PHANTOM"}
-local Trailer = {"TANKER", "TRAILERS", "TRAILERS2", "TRAILERLOGS", "ARMYTRAILER2"}
+local Trailer = {"TANKER", "TRAILERS", "TRAILERS2", "TRAILERLOGS"}
 
 local MissionData = {
     [0] = {1212.4463, 2667.4351, 38.79, 500}, --x,y,z,money
@@ -50,8 +50,8 @@ local MissionData = {
     [3] = {1904.61, 4924.14, 48.58, 600},
     [4] = {196.5617, 6631.0967, 31.53, 700},
     [5] = {-498.98, -2845.00, 6.00, 350},
-	[6] = {2673.96, 3513.38, 52.29, 600},
-	[7] = {-2225.87, 4232.18, 46.46, 800}
+    [6] = {2673.96, 3513.38, 52.29, 600},
+    [7] = {-2225.87, 4232.18, 46.46, 800}
 }
 local MISSION = {}
 MISSION.start = false
