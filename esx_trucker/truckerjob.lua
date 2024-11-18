@@ -1,5 +1,6 @@
 -- v0.4
--- Requires es_extended v1.9 for payouts
+-- Requires es_extended and mysql-async for payouts into DB
+-- Added Mission Text to scripting
 -- Better destinations
 -- Changed trucking company start locations
 -- Realistic job payouts
